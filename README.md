@@ -1,1 +1,3 @@
-# PreEntrega1-Ospina-
+# PreEntrega1-Ospina
+
+#Funciones, bucles y condicionales

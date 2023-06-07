@@ -1,6 +1,5 @@
 //Declaración de variables
 const precioHora = 400;
-const descuento = 0.1;
 let mensaje =
   "Bienvenido.\n \nIngrese '1' para consultar tu deuda. \nIngrese '2'para realizar su pago.  \nIngrese '3' para salir.";
 

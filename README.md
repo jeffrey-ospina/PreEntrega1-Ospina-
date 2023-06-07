@@ -8,4 +8,6 @@ Se declaran variables al comienzo que serán usadas luego. En la ejecución del 
 
 - Bucle 'while': Para hacer uso del menú de interfaz que se le pide al usuario que ingrese la opción que desea realizar. Al momento de pagar, se le asigna la función o método '.toFixed' para que arroje solamente dos (2) valores luego de la coma y así evitar tantos decimales. Sé que existe la función de 'truncar' o algo parecido pero se me hizo complicado y al no lograrlo con facilidad decidí emplear lo anterior mencionado.
 
+- Condicionales 'if': Para validar que si el usuario ha ingresado determinado valor, hacer lo siguiente. De lo contrario, se realiza otra acción.
+
 De esa forma, usando estos parámetros e indicaciones se logra obtener el resultado esperado según lo que se aprecia en el código.
